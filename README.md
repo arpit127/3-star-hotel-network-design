@@ -1,4 +1,4 @@
-# 3-star-hoel-network-design
+# 3-star-hotel-network-design
 A proposed network architecture for a 3 star hotel demonstrated using cisco packet tracer.
 
 The 3-star hotel support 10 computers in each floor and the hotel has a total of 15 floors. The hotel has 15 staffs in the hotel management so 15 desktop computers would be required for management department. So, 165 desktop computers would be required. All the computers should have an antivirus software to secure all the computers. The guest computers will be connected to the Primary Router whereas the staff computers will be connected to Staff Router in order to provide different network for guests and staffs. So, we require a total of 2 routers.
